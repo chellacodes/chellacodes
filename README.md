@@ -1,4 +1,12 @@
-### Hi there git hub community , welcome to my entry to tech journey👋
+## Hi there git hub community , welcome to my entry to tech journey👋
+
+### I am interested in learning... 🤔
+
+### I am working on... 👩🏽‍💻
+
+### I have worked on... ✅
+
+## About me 👩🏽
 
 <!--
 **chellacodes/chellacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
